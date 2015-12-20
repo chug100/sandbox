@@ -15,7 +15,7 @@ namespace sandbox
 					Children = {
 						new Label {
 							XAlign = TextAlignment.Center,
-							Text = "Welcome to The Sandbox!"
+							Text = "Welcome to The Sandbox Sidelines!"
 						}
 					}
 				}
