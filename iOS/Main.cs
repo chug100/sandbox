@@ -16,6 +16,10 @@ namespace sandbox.iOS
 			// you can specify it here.
 			UIApplication.Main (args, null, "AppDelegate");
 		}
+
+		satic void sds() {
+			// This is the function to play with
+		}
 	}
 }
 
